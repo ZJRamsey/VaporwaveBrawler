@@ -22,6 +22,12 @@ public class GenericFighter: MonoBehaviour {
     }
     
     // Update is called once per frame
-    
+    void Update ()
+    {
+        //Movement input
+        //Move character
+        //Button input
+        //Perform moves
+        //
     }
 }
