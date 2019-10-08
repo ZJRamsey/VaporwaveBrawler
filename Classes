@@ -1,16 +1,16 @@
 Fighting Styles
-Whip (Kat, Tentacle)
+Whip (Cat, Tentacle)
 Cartoon Small (ROM, Coolidge)
 Ranged (Witch, Hacker)
-Brawler (Mac, Statue)
+Bruiser (Mac, Statue)
 Technical (Ranger, Dolphin)
 
 WHIP:
 - Mid rng
-- Low dmg
-- Mid spd
+- Mid dmg
+- Low spd
 - Mid hp
-- Mid rcv
+- High rcv
 
 CARTOON:
 - Mid rng
@@ -23,24 +23,26 @@ RANGED:
 - High rng
 - Mid dmg
 - Mid spd
-- Mid hp
-- Low rcv
+- Low hp
+- Mid rcv
 
-BRAWLER:
-- Mid rng
-- Mid dmg
-- Low spd
-- High hp
+BRUISER:
+- Low rng
+- High dmg
+- Mid spd
+- Mid hp
 - Mid rcv
 
 TECHNICAL:
-- rng
-- dmg
+- Mid rng
+- Low dmg
 - High spd
-- hp
-- rcv
+- Mid hp
+- Mid rcv
 
 
 rng - Reach of fighter
 dmg - Damage per hit
-spd - Movement speed and float in air
+spd - Movement speed, time to fall
+hp - Health/Damage resistance
+rcv - Time caught in stun lock after getting hit
