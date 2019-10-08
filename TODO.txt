@@ -1,0 +1,19 @@
+===TO DO===
+
+
+--CODING--
+
+Fighters:
+>Generic fighter script
+>
+
+DESIGN:
+Rough character designs
+Character animations
+Sketch level
+Level background
+
+SOUND:
+Basic sound effects
+Main theme
+Level themes
